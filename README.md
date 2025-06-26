@@ -1,5 +1,8 @@
 # 🌿 EcoPod – India’s 1st 24-Hour Smart Composter
 <i>Turn your food waste into fertilizer — fast, odor-free, and eco-friendly.</i>
+
+<h4> FIRST CHECK THE WEBSITE: https://doyelpati05.github.io/Ecopod/ </h4>
+
 <ol>
 <h3>⚙️ How It Works<br></h3>
 <li>🥕 Add Waste – Toss in your kitchen scraps</li>
